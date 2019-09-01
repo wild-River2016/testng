@@ -9,12 +9,6 @@
         <module name="testng" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="Chapter" target="1.6" />
-      <module name="Chapter12" target="1.8" />
-      <module name="Chapter5" target="1.6" />
-      <module name="Chapter6 (1) (org.alanhou.java)" target="1.6" />
-    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
